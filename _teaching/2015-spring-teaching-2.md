@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 2"
+title: "University of Ottawa"
 collection: teaching
-type: "Workshop"
+type: "Teaching assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Department of Mathematics and Statistics"
+date: "2021- Present"
+location: "Ottawa, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This semester I am a teaching assitant for honours linear algebra (Mat 2141) and introductory calculus (Mat 1300). 
 
-Heading 1
-======
+I have also assisted in many other courses (some more than once):
+<ul>
+    <li> Calculus I (Mat 1320) and Calculus II (Mat 1322).</li>
+    <li> Calculus for life sciences I (Mat 1330) and Calculus for life sciences II (Mat 1332).</li>
+    <li> Introduction to linear algebra (Mat 1341).</li>
+    <li> Mathematical reasoning and proofs (Mat 1362). </li>
+</ul>
 
-Heading 2
-======
-
-Heading 3
-======
+Responsabilities includ(ed) teaching problem sessions and marking.
