@@ -8,11 +8,13 @@ date: 2016-01-01
 location: "Mexico City, Mexico"
 ---
 
-## Lecturer.
+Lecturer.
+===
 
 I was lecturer for Linear Algebra I during the 2018 Winter semester.
 
-## Teaching assistant.
+Teaching assistant.
+===
 
 I was teaching assistant for a number of courses till the end of 2018.
 
