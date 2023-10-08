@@ -9,7 +9,6 @@ location: "Ottawa, Canada"
 ---
 
 This semester I am a teaching assitant for honours linear algebra (Mat 2141) and introductory calculus (Mat 1300). 
-
 I have also assisted in many other courses (some more than once):
 <ul>
     <li> Calculus I (Mat 1320) and Calculus II (Mat 1322).</li>
