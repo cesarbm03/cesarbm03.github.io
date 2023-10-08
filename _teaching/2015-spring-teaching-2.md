@@ -15,6 +15,5 @@ I have also assisted in many other courses (some more than once):
 * Calculus for life sciences I (Mat 1330) and Calculus for life sciences II (Mat 1332).
 * Introduction to linear algebra (Mat 1341).
 * Mathematical reasoning and proofs (Mat 1362).
-=====
 Responsabilities includ(ed) teaching problem sessions and marking.
 =====
