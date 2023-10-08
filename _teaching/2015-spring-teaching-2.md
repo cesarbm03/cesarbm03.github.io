@@ -3,8 +3,8 @@ title: "University of Ottawa"
 collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Department of Mathematics"
-# date: ""
+venue: "Department of Mathematics and Statistics"
+date: "2021-09-01"
 location: "Ottawa, Canada"
 ---
 

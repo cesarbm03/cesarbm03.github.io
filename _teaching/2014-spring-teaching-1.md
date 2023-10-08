@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Department of Mathematics and Statistics"
-date:
+# date:
 location: "London Ontario, Canada"
 ---
 
