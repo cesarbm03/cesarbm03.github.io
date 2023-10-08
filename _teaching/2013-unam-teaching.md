@@ -12,8 +12,9 @@ location: "Mexico City, Mexico"
 - Lecturer for the course Superior Algebra I during the 2018 Winter semester for the Faculty of Higher Studies Acatlan.
 
 I was teaching assistant for various courses too:
+===========
 
 - Linear algebra I.
 - Number theory I.
 - Algebra I. 
-- Algebra II
+- Algebra II.
