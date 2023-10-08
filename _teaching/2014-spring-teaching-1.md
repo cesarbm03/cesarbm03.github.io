@@ -8,4 +8,7 @@ venue: "Department of Mathematics and Statistics"
 location: "London Ontario, Canada"
 ---
 
-I was teaching assitant for Calculus, methods of matrix algebra, methods of finite mathematics.
+I was teaching assitant for:
+- Calculus.
+- Methods of matrix algebra.
+- Methods of finite mathematics.
