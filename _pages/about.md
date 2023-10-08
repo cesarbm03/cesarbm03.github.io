@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Under construction
+I am a PhD student at the University of Ottawa under the supervision of 
+<a href="http://www.normalesup.org/~henry/">Simon Henry</a>.
