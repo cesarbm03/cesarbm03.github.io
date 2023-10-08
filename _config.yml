@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cesar Bardomiano Martinez"
   avatar           : "profile.png"
-  bio              : "Under construction"
+  bio              : "PhD Student"
   location         : "45.4215° N, 75.6972° W"
   employer         : "University of Ottawa"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "cbard03 (at) uottawa (dot) ca"
+  email            : "cbard03@uottawa.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
