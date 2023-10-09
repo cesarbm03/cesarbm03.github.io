@@ -5,7 +5,7 @@ permalink: /seminar/
 author_profile: true
 ---
 
-About: The goal of the seminar is study topos theory. We meet each Friday from 11:00-13:00 in STEM 612. Here it is the schedule:
+About: The goal of the seminar is to study topos theory. We meet each Friday from 11:00-13:00 in STEM 612. Here it is the schedule:
 
 - 07-Oct-2023
 
