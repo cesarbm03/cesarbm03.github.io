@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Here it is a paper version of my <a href="http://cesarbm03.github.io/files/paper1.pdf">CV</a>
+Here it is a paper version of my <a href="http://cesarbm03.github.io/files/autoCV.pdf">CV</a>
