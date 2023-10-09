@@ -8,4 +8,4 @@ date: 2021-08-31
 location: "University of Ottawa"
 ---
 
-Talk for the Graduate Student Colloquium of the Deparment of Mathematics.
+Talk for the Graduate Student Colloquium of the Deparment of Mathematics at the University of Ottawa.

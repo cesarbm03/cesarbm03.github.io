@@ -8,4 +8,4 @@ date: 2022-02-10
 location: "University of Ottawa"
 ---
 
-Talk for the Logic Seminar in the Deparment of Mathematics at UOttawa.
+Talk for the Logic Seminar in the Deparment of Mathematics at UOttawa at the University of Ottawa.

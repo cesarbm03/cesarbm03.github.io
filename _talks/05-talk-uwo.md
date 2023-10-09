@@ -8,4 +8,4 @@ date: 2019-11-01
 location: "University of Western Ontario"
 ---
 
-Talk for the Graduate Student Colloquium of the Deparment of Mathematics.
+Talk for the Graduate Student Colloquium of the Deparment of Mathematics at the University of Western Ontario.
