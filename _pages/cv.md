@@ -6,3 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+Here it is a paper version of my <a href="">CV</a>
