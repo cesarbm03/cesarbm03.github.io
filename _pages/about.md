@@ -16,7 +16,7 @@ I am a PhD student at the <a href="https://www.uottawa.ca/fr">University of Otta
   <li>Theory of model categories</li>
   <li>Homotopy type theory (and its variations)</li>
 </ul> 
-Recently, I started collaborating in a formalization project of synthetic ∞-categories lead by <a href="https://fizruk.github.io/">Nikolai Kudazov</a>, <a href="https://emilyriehl.github.io/">Emily Riehl</a> and <a href="https://sites.google.com/view/jonathanweinberger">Jonathan Weinberger</a>. We work with the computer proof assistant <a href="https://github.com/rzk-lang/rzk">rzk</a> developed by Nikolai. I am interested in doing mathematics from a Univalent point of view.
+Recently, I started collaborating in a formalization project of synthetic ∞-categories lead by <a href="https://fizruk.github.io/">Nikolai Kudazov</a>, <a href="https://emilyriehl.github.io/">Emily Riehl</a> and <a href="https://sites.google.com/view/jonathanweinberger">Jonathan Weinberger</a>. We work with the computer proof assistant <a href="https://github.com/rzk-lang/rzk">rzk</a> developed by Nikolai.
 
 This semester I am running <a href=""> The logic Elephant </a>, a reading seminar on topos theory.
 
