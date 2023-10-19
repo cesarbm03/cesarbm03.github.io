@@ -5,9 +5,13 @@ permalink: /seminar/
 author_profile: true
 ---
 
-About: The goal of the seminar is to study topos theory. We meet each Friday from 11:00-13:00 in STEM 612. Here it is the schedule:
+- 020-Oct-2023
 
-- 07-Oct-2023
+    + Speaker: Daniel Almeida
+
+        * Abstract: In this session we focus on discussing examples of some interesting (elementary) toposes.
+
+- 13-Oct-2023
 
     + Speaker: Cesar Bardomiano
 
