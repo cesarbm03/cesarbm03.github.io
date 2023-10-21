@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cesar Bardomiano Martinez"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "Loading"
   location         : "45.4215° N, 75.6972° W"
   employer         : "University of Ottawa"
