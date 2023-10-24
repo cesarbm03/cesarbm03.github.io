@@ -2,14 +2,20 @@
 layout: archive
 title: "The logic Elephant: Topos theory"
 permalink: /seminar/
-author_profile: true
+author_profile: false
 ---
 
-- 020-Oct-2023
+- 27-Oct-2023
+
+    + Speaker: Samuel Desroches
+
+        * Abstract: We introduce Grothendieck topologies, and consequently sheaves over sites.
+
+- 20-Oct-2023
 
     + Speaker: Daniel Almeida
 
-        * Abstract: In this session we focus on discussing examples of some interesting (elementary) toposes.
+        * Abstract: In this session we focus on discussing examples of some interesting (elementary) toposes, in particular presheaves topoi.
 
 - 13-Oct-2023
 

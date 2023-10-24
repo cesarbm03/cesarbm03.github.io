@@ -18,6 +18,6 @@ I am a PhD student at the <a href="https://www.uottawa.ca/fr">University of Otta
 </ul> 
 I started collaborating in a formalization project of synthetic ∞-categories lead by <a href="https://fizruk.github.io/">Nikolai Kudazov</a>, <a href="https://emilyriehl.github.io/">Emily Riehl</a> and <a href="https://sites.google.com/view/jonathanweinberger">Jonathan Weinberger</a>. We work with the computer proof assistant <a href="https://github.com/rzk-lang/rzk">rzk</a> developed by Nikolai.
 
-This semester I am (co)organize <a href="https://cesarbm03.github.io/seminar/"> The logic Elephant </a>, a reading seminar on topos theory.
+This semester I (co)organize <a href="https://cesarbm03.github.io/seminar/"> The logic Elephant </a>, a reading seminar on topos theory.
 
 Also, I am a mentor at the directed reading program <a href="https://ninyam.github.io/paresordenados_eng/">Pares ordernados. </a>
