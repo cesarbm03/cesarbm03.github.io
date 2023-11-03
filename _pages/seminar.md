@@ -5,11 +5,17 @@ permalink: /seminar/
 author_profile: false
 ---
 
+- 03-Nov-2023
+
+    + Speaker: Samuel Desroches
+
+        * Abstract: Part II. We introduce Grothendieck topologies, and consequently sheaves over sites.
+
 - 27-Oct-2023
 
     + Speaker: Samuel Desroches
 
-        * Abstract: We introduce Grothendieck topologies, and consequently sheaves over sites.
+        * Abstract: Part I. We introduce Grothendieck topologies, and consequently sheaves over sites.
 
 - 20-Oct-2023
 
