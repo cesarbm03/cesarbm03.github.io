@@ -5,6 +5,12 @@ permalink: /seminar/
 author_profile: false
 ---
 
+- 10-Nov-2023
+
+    + Speaker: Ali Hamad
+
+        * Abstract: We review first order theories and how to interpret them in a topos. We also define the syntactic topos. 
+
 - 03-Nov-2023
 
     + Speaker: Samuel Desroches
