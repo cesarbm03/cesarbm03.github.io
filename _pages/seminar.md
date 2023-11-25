@@ -5,6 +5,15 @@ permalink: /seminar/
 author_profile: false
 ---
 
+
+- 14-Nov-2023
+
+    + Speaker: Ali Hamad
+
+        * Abstract: Part II. We review first order theories and how to interpret them in a topos. We also define the syntactic topos.
+
+- 17-Nov-2023: No meeting today.
+
 - 10-Nov-2023
 
     + Speaker: Ali Hamad
