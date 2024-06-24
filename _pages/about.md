@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the <a href="https://www.uottawa.ca/fr">University of Ottawa</a> under the supervision of 
+I am a PhD candidate at the <a href="https://www.uottawa.ca/fr">University of Ottawa</a> under the supervision of 
 <a href="http://www.normalesup.org/~henry/">Simon Henry</a>. My research interest revolve around the following topics:
  <ul>
   <li>Higher categories</li>
