@@ -1,0 +1,12 @@
+---
+title: "The language of a model category"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-2
+excerpt: 'We build the notion of a language over a model category.'
+date: 2024-10-01
+venue: 'Preprint'
+paperurl: ''
+citation: ''
+---
+
+ We explore a beautiful and intriguing relation between logic and homotopy theory. In this joint work with Simon Henry, we build the notion of a language over a model category. Throughout it, we hope to get some insights about models of infinity categories. The paper is still work in progress, but it is close to its final version.
