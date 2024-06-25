@@ -6,7 +6,7 @@ excerpt: 'We explore a beautiful and intriguing relation between logic and homot
 date: 2024-10-01
 venue: 'Preprint'
 paperurl: ''
-citation: 'In preparation.'
+citation: '<a href="https://cesarbm03.github.io/files/language.pdf">In preparation.</a>'
 ---
 
  We explore a beautiful and intriguing relation between logic and homotopy theory. In this joint work with Simon Henry, we build the notion of a language over a model category. Throughout it, we hope to get some insights about models of infinity categories. The paper is still work in progress, but it is close to its final version.
