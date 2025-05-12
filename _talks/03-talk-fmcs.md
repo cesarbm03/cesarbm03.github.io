@@ -1,5 +1,5 @@
 ---
-title: "Univalent foundations of mathematics"
+title: "The language of a model category"
 collection: talks
 type: "Talk"
 permalink: /talks/03-talk-fmcs
