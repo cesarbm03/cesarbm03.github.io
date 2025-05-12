@@ -1,11 +1,11 @@
 ---
-title: "A first look into ∞-categories."
+title: "The language of a model category"
 collection: talks
 type: "Talk"
-permalink: /talks/03-talk-msgsa
-venue: "Deparment of Mathematics"
-date: 2022-10-09
-location: "University of Ottawa"
+permalink: /talks/03-talk-manchester
+venue: "Categorical logic and higher categories"
+date: 2024-12-19
+location: "University of Manchester"
 ---
 
-Talk for the Graduate Student Colloquium of the Deparment of Mathematics at the University of Ottawa.
+Speed talk at the <a href="https://gtendas.github.io/clhc/">Categorical logic and higher categories conference </a>

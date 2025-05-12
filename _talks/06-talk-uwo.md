@@ -1,11 +1,11 @@
 ---
-title: "Sheaves and Etale spaces"
+title: "Homotopy languages"
 collection: talks
 type: "Talk"
-permalink: /talks/04-talk-uwo
-venue: "Deparment of Mathematics"
+permalink: /talks/04-talk-assume
+venue: "ASSUME seminar"
 date: 2019-11-01
-location: "University of Western Ontario"
+location: "University of Birmingham"
 ---
 
-Talk for the Graduate Student Colloquium of the Deparment of Mathematics at the University of Western Ontario.
+Talk for the <a href="https://tdejong.com/ASSUME/">ASSUME </a>
