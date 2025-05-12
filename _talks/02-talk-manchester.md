@@ -2,7 +2,7 @@
 title: "The language of a model category"
 collection: talks
 type: "Talk"
-permalink: /talks/03-talk-manchester
+permalink: /talks/02-talk-manchester
 venue: "Categorical logic and higher categories"
 date: 2024-12-19
 location: "University of Manchester"

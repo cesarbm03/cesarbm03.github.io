@@ -2,7 +2,7 @@
 title: "Limits and colimits in simplicial homotopy type theory "
 collection: talks
 type: "Talk"
-permalink: /talks/01-talk-germany
+permalink: /talks/05-talk-germany
 venue: "University of Regensburg"
 date: 2023-09-19
 location: "Regensburg, Germany"

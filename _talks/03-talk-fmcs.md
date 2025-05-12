@@ -2,7 +2,7 @@
 title: "Univalent foundations of mathematics"
 collection: talks
 type: "Talk"
-permalink: /talks/04-talk-fmcs
+permalink: /talks/03-talk-fmcs
 venue: "Foundational methods in computer science"
 date: 2024-07-08
 location: "University of Calgary, Kannaskis research station"
