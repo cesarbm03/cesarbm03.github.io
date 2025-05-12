@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/04-talk-fmcs
 venue: "Foundational methods in computer science"
-date: 2021-08-31
+date: 2024-07-08
 location: "University of Calgary, Kannaskis research station"
 ---
 
