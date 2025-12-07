@@ -5,10 +5,12 @@ collection: publications
 excerpt: 'We study exponentiable functors in simplicial type theory. Submitted'
 date: 2024-07-01
 venue: 'Submitted preprint'
-paperurl: 'https://arxiv.org/abs/2407.18072'
-citation: ''
+paperurl: 'https://doi.org/10.1017/S0960129525100339'
+citation: 'Bardomiano Martínez, César. “Exponentiable Functors between Synthetic ∞-Categories.” Mathematical Structures in Computer Science 35 (2025): e29. https://doi.org/10.1017/S0960129525100339.'
 ---
 
-We study exponentiable functors in simplicial type theory. Submitted
+We study exponentiable functors in simplicial type theory. Published in Mathematical Structures in Computer Science.
 
-[Download paper here](https://arxiv.org/abs/2407.18072) Submitted.
+
+
+Bardomiano Martínez, César. “Exponentiable Functors between Synthetic ∞-Categories.” Mathematical Structures in Computer Science 35 (2025): e29. https://doi.org/10.1017/S0960129525100339. 

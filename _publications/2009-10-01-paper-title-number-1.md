@@ -5,10 +5,11 @@ collection: publications
 excerpt: 'We develop a theory of limits and colimits in the setting of synthetic ∞-categories.'
 date: 2022-10-01
 venue: 'Submitted preprint'
-paperurl: 'https://arxiv.org/abs/2202.12386'
-citation: ''
+paperurl: 'https://doi.org/10.1017/S0960129525100248'
+citation: 'Bardomiano Martínez, César. “Limits and Colimits in Synthetic ∞-Categories.” Mathematical Structures in Computer Science 35 (2025): e24. https://doi.org/10.1017/S0960129525100248.'
 ---
 
-We develop a theory of limits and colimits in the setting of synthetic ∞-categories. Submitted.
+We develop a theory of limits and colimits in the setting of synthetic ∞-categories. Published in Mathematical Structures in Computer Science.
 
-[Download paper here](https://arxiv.org/abs/2202.12386) Submitted.
+
+Bardomiano Martínez, César. “Limits and Colimits in Synthetic ∞-Categories.” Mathematical Structures in Computer Science 35 (2025): e24. https://doi.org/10.1017/S0960129525100248.
