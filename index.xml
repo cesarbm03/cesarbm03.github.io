@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>288</fr:anchor><fr:addr
+type="user">index</fr:addr><fr:route>index.xml</fr:route><fr:title
+text="César Bardomiano Martínez">César Bardomiano Martínez</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="institution">Johns Hopkins University</fr:meta><fr:meta
+name="position">J.J. Sylvester Assistant Professor</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>I am J.J. Sylvester Assistant Professor at <fr:link
+type="external"
+href="https://mathematics.jhu.edu/">Johns Hopkins University</fr:link>. I received my PhD from the University of Ottawa in Canada, where my advisor was <fr:link
+type="external"
+href="https://www.normalesup.org/~henry/">Simon Henry</fr:link>. I am interested in category theory and logic. My research interests include:
+<fr:ul><fr:li>Higher Categories</fr:li>
+<fr:li>Model Categories</fr:li>
+<fr:li>Type Theory</fr:li></fr:ul>
+
+Currently growing this Forest using <fr:link
+type="external"
+href="https://www.forester-notes.org/0065/">Forester</fr:link>. Come back later to check out new <fr:link
+type="external"
+href="https://www.forester-notes.org/tfmt-000R/">trees</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
